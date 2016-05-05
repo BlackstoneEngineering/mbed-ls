@@ -176,6 +176,7 @@ class MbedLsToolsBase:
         "9012": "SEEED_TINY_BLE",
         "9900": "NRF51_MICROBIT",
         "FFFF": "K20 BOOTLOADER",
+        "OSHW":"Unknown DAPLink Implementation",
         "RIOT": "RIOT",
     }
 
